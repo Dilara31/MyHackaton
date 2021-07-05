@@ -64,6 +64,13 @@ nav > :hover {
     margin: 50px;
 }
 
+.button-top:hover {
+    color: white;
+    background-color: #777;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
 .artcl {
     display: flex;
     flex-direction: column;
@@ -97,6 +104,13 @@ hr{
     font-size: 15px;
     background: white;
     border-color: #777;
+}
+
+.button-main:hover {
+    color: white;
+    background-color: #777;
+    cursor: pointer;
+    transition: all 0.5s;
 }
 
 .ft {
