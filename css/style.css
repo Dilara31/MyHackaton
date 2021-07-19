@@ -124,6 +124,15 @@ hr{
 
 .ft > article {
     max-width: 30%;
-   
+
 }
 
+footer > article > address {
+    opacity: 50%;
+    line-height: 2;
+}
+
+footer > article > p {
+    opacity: 50%;
+    line-height: 2;
+}
